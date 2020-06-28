@@ -1,3 +1,3 @@
-# WhatsApp_autotexts
+# WhatsApp_autotexting
 
-This code is for automating sending personlized texts to contacts.
+This a python code for automating sending personlized texts to contacts.
